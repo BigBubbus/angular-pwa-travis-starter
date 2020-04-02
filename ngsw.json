@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1585845838166,
+  "index": "/whado/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/whado/favicon.ico",
+        "/whado/index.html",
+        "/whado/main-es2015.3319dcf9151324c77725.js",
+        "/whado/main-es5.3319dcf9151324c77725.js",
+        "/whado/manifest.webmanifest",
+        "/whado/polyfills-es2015.1f913f16a2d346cc8bdc.js",
+        "/whado/polyfills-es5.f1044614286c4864d80f.js",
+        "/whado/runtime-es2015.0811dcefd377500b5b1a.js",
+        "/whado/runtime-es5.0811dcefd377500b5b1a.js",
+        "/whado/styles.45223b0fffa403703b9d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/whado/assets/icons/icon-128x128.png",
+        "/whado/assets/icons/icon-144x144.png",
+        "/whado/assets/icons/icon-152x152.png",
+        "/whado/assets/icons/icon-192x192.png",
+        "/whado/assets/icons/icon-384x384.png",
+        "/whado/assets/icons/icon-512x512.png",
+        "/whado/assets/icons/icon-72x72.png",
+        "/whado/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/whado/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/whado/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/whado/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/whado/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/whado/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/whado/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/whado/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/whado/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/whado/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/whado/index.html": "36389cc01082b229458194f6c9f49ae2218ae922",
+    "/whado/main-es2015.3319dcf9151324c77725.js": "50e4114767eb88b97a05bd61db9666e510fde18e",
+    "/whado/main-es5.3319dcf9151324c77725.js": "01b79072a05a29c3aa5c548f71041cd4b1c856af",
+    "/whado/manifest.webmanifest": "0956da5426031c5b63fa88ecbfe4fd860d8b2413",
+    "/whado/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/whado/polyfills-es5.f1044614286c4864d80f.js": "e5472003c8575a8fca7583648df3905038faeb18",
+    "/whado/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/whado/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/whado/styles.45223b0fffa403703b9d.css": "0ff97279e146f82190cecdf3add6faf5e858e9ee"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
